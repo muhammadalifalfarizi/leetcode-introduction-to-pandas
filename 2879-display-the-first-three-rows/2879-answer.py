@@ -21,6 +21,8 @@ result_df = selectFirstRows(employees)
 print("\nFirst 3 Rows:")
 print(result_df)
 
-# Short Answer
-# def selectFirstRows(employees: pd.DataFrame) -> pd.DataFrame:
-#     return employees.head(3)
+'''
+Short Answer
+def selectFirstRows(employees: pd.DataFrame) -> pd.DataFrame:
+    return employees.head(3)
+'''

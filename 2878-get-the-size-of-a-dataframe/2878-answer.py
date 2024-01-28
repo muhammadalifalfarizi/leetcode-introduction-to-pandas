@@ -17,6 +17,8 @@ players_df = pd.DataFrame(data)
 result = getDataframeSize(players_df)
 print(result)
 
-# Short Answer
-# def getDataframeSize(players: pd.DataFrame) -> List[int]:
-#     return [players.shape[0], players.shape[1]]
+'''
+Short Answer
+def getDataframeSize(players: pd.DataFrame) -> List[int]:
+    return [players.shape[0], players.shape[1]]
+'''

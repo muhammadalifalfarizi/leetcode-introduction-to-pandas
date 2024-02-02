@@ -47,5 +47,5 @@ The result format is in the following example.
 
 ### Explanation:
 
-Alic (customer_id = 4) and Finn (customer_id = 5) both use john@example.com, so only the first occurrence of this email is retained.
+Alic ```(customer_id = 4)``` and Finn ```(customer_id = 5)``` both use john@example.com, so only the first occurrence of this email is retained.
 

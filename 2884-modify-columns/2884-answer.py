@@ -13,3 +13,11 @@ new_df = modifySalaryColumn(employees)
 print(employees)
 print("\n")
 print(new_df)
+
+'''
+Short Answer
+def modifySalaryColumn(employees: pd.DataFrame) -> pd.DataFrame:
+    employees['salary'] *= 2
+    return employees
+'''
+

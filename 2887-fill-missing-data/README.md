@@ -16,6 +16,7 @@ The result format is in the following example.
 
 ### Example 1:
 **Input:**
+```python
 | name            | quantity | price |
 +-----------------+----------+-------+
 | Wristwatch      | None     | 135   |
@@ -23,6 +24,7 @@ The result format is in the following example.
 | GolfClubs       | 779      | 9319  |
 | Printer         | 849      | 3051  |
 +-----------------+----------+-------+
+```
 **Output**:
 ```python
 +-----------------+----------+-------+

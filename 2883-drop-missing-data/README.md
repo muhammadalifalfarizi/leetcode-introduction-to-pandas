@@ -24,7 +24,6 @@ Write a solution to remove the rows with missing values. The result format is in
 ```python
    student_id     name  age
 0          32    Piper    5
-1         217     None   19
 2         779  Georgia   20
 3         849   Willow   14
 ```
